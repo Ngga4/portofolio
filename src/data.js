@@ -177,6 +177,15 @@ export const listProyek = [
     dad: "600",
     link: "#",
   },
+  {
+    id: 6,
+    gambar: Proyek6,
+    nama: "Web Portfolio",
+    desk: "Merupakan website SIBLOKADE yang dibuat menggunakan React JS dan Tailwind CSS untuk keperluan Lomba Essay Tingkat Nasional yang diselenggarakan oleh Sentosa Foundation dan IPB University.",
+    tools: ["HTML", "Javascript", "Tailwind CSS", "React JS"],
+    dad: "600",
+    link: "https://siblokade.vercel.app/",
+  },
 ];
 
 import sertif1 from "/assets/sertif/sertif1.webp";
