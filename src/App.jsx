@@ -17,7 +17,7 @@ function App() {
                         Saya memiliki ketertarikan dalam bidang Programing, Data Analyst dan Designer, terutama pada pembuatan Website, Visualisasi data dan Desain Grafis. Saya selalu berusaha untuk terus belajar dan mengembangkan keterampilan saya dalam bidang ini, serta mencari peluang untuk menerapkan pengetahuan saya dalam proyek-proyek yang menantang.
                     </p>
                     <div className="flex items-center sm:gap-4 gap-2">
-                        <a href="https://drive.google.com/file/d/11RM_arhIE_48mXJIrM7LBBg2fGzurhaQ/view?usp=sharing" className="bg-blue-700 p-4 rounded-2xl hover:bg-blue-600 ">
+                        <a href="https://drive.google.com/file/d/1-GTuIK2Ja6QRueJqfbwYAbqYNy1vrxgl/view?usp=sharing" className="bg-blue-700 p-4 rounded-2xl hover:bg-blue-600 ">
                             Download CV <i className="ri-download-line ri-lg"></i>
                         </a>
                         <a href="#proyek" className="bg-slate-700 p-4 rounded-2xl hover:bg-slate-600 ">
