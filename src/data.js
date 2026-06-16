@@ -199,6 +199,10 @@ import sertif8 from "/assets/sertif/sertif8.webp";
 import sertif9 from "/assets/sertif/sertif9.webp";
 import sertif10 from "/assets/sertif/sertif10.webp";
 import sertif11 from "/assets/sertif/sertif11.webp";
+import sertif12 from "/assets/sertif/sertif12.webp";
+import sertif13 from "/assets/sertif/sertif13.webp";
+import sertif14 from "/assets/sertif/sertif14.webp";
+import sertif15 from "/assets/sertif/sertif15.webp";
 
 export const listSertif = [
   {
@@ -255,5 +259,25 @@ export const listSertif = [
     id: 11,
     gambar: sertif11,
     dad: "1100",
+  },
+  {
+    id: 12,
+    gambar: sertif12,
+    dad: "1200",
+  },
+  {
+    id: 13,
+    gambar: sertif13,
+    dad: "1300",
+  },
+  {
+    id: 14,
+    gambar: sertif14,
+    dad: "1400",
+  },
+  {
+    id: 15,
+    gambar: sertif15,
+    dad: "1500",
   },
 ];
